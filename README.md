@@ -14,10 +14,9 @@ Here are some ideas to get you started:-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NumanArif&theme=darkhub&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <a href="https://github.com/NumanArif">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NumanArif&show_icons=true&theme=light&line_height=27" alt="GitHub Stats"/>
+<a href="https://github.com/NumanArif" target="blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NumanArif&show_icons=true&theme=dark&line_height=27&count_private=true&hide=stars,prs,issues,contribs&langs_count=true" alt="GitHub Stats"/>
 </a>
-
-<a href="https://github.com/NumanArif">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanArif&theme=light&hide_langs_below=1" alt="Top Language"/>
+<!-- <a href="https://github.com/NumanArif" target="blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanArif&theme=light&layout=compact&hide=css,html,scss,javascript" alt="Top Language"/>
 </a> -->
