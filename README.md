@@ -12,3 +12,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: Numan
 - ⚡ Fun fact: Love to code and explore new technologies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=NumanArif)](https://github.com/ryo-ma/github-profile-trophy)
