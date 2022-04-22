@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭  I’m currently working on Android with Kotlin
-- 🌱  I’m currently learning KMM, Books on Clean Coding and Clean Software Structure and Design
+- 🌱  I’m currently learning KMM, Reading Books on Clean Coding and Clean Software Structure and Design
 - 👯  I’m looking to collaborate on any amazing open source mobile application
 - 💬  Ask me about Android Development
 - 😄  Pronouns: Numan
