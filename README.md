@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+<a href="https://www.linkedin.com/in/numanarif/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://numanarif.github.io" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+</br>
 ![Profile views counter](https://komarev.com/ghpvc/?username=NumanArif)
 <!--
 **NumanArif/NumanArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
