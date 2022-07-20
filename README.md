@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ![Profile views counter](https://komarev.com/ghpvc/?username=NumanArif)
 
-<a href="https://www.linkedin.com/in/numanarif/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://numanarif.github.io" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
-</br>
-![Profile views counter](https://komarev.com/ghpvc/?username=NumanArif)
+<a href="mailto:numanarif19@gmail.com" target="_blank">![numanarif19@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://numanarif.github.io" target="_blank">![Portfolio](https://img.shields.io/badge/PortFolio-1215E?style=for-the-badge&logo=web&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/numanarif/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 <!--
 **NumanArif/NumanArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
